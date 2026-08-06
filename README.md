@@ -30,13 +30,13 @@ Along with predicting churn, it also estimates the monthly revenue at risk so bu
 - Built a Random Forest classification model
 - Evaluated the model using Precision, Recall, F1-score, and Confusion Matrix
 - Calculated revenue at risk using churn probability
-- 
+  
 ## Key Insights
 - Around **18%** of customers churned.
 - Basic plan customers had the highest churn rate.
 - Customers with lower viewing hours and newer accounts were more likely to leave.
 - Revenue at Risk helped identify the customers who should be contacted first.
-- 
+  
 ## Tools Used
 - Python
 - Pandas
